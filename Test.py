@@ -1,1 +1,3 @@
-#This is the python file for testing purposes
+# This is the Python file for testing purposes.
+
+print("Hello, World!");
